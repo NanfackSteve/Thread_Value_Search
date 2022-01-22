@@ -1,4 +1,6 @@
-# Find a number in array with Threads
+# Find a number in array with Threads :coffee:
+
+<img src="./photo_2022-01-22_19-59-51.jpg" alt="GNU/Linux" width="400" height="280"/>
 
 ## How to use
 
