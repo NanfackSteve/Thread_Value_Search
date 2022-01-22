@@ -1,4 +1,6 @@
+# Find a number in array with Threads
 
+## How to use
 
 1- On GNU/Linux run the following command:
 $ make all
@@ -8,7 +10,7 @@ $ make all
 3- To execute "Thread" binary file, run:
 $ ./Threads <Thread's Number> <Table's size> <Search value>
 
-Example: 
-$./Threads 2 1000 17 
+### Example: 
+<strong> $./Threads 2 1000 17 </strong> 
 or 
-$./Threads 4 100 7
+<strong> $./Threads 4 100 7 </strong>
