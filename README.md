@@ -1,4 +1,4 @@
-# Find a number in array with Threads :coffee:
+# Find a number in array with Threads 🔍🧐
 
 <img src="./photo_2022-01-22_19-59-51.jpg" alt="GNU/Linux" width="400" height="280"/>
 
